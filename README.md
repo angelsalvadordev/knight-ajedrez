@@ -1,5 +1,7 @@
 # 🐎 KNIGHT AJEDREZ
 
+![knigh ajedrez](https://repository-images.githubusercontent.com/267155057/6f427000-9f70-11ea-8d4d-522255634324)
+
 ## 📝 Resumen
 
 Creación de una ficha de ajedrez (caballo) con las reglas de movimiento permitidas del juego para el uso de drag & drop, usando la libreria React DnD.
@@ -24,4 +26,4 @@ Creación de una ficha de ajedrez (caballo) con las reglas de movimiento permiti
 
 ## 👀 Demo
 
-[Knight Ajedrez](https://react-dnd.github.io/react-dnd/about)
+[Knight Ajedrez](https://angelsalvadordev.github.io/knight-ajedrez/)
