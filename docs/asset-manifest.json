@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/static/js/main.fb8f6d84.chunk.js",
-    "main.js.map": "/static/js/main.fb8f6d84.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b0c864d8.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b0c864d8.js.map",
-    "static/js/2.67136b13.chunk.js": "/static/js/2.67136b13.chunk.js",
-    "static/js/2.67136b13.chunk.js.map": "/static/js/2.67136b13.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.d12841fc9b0e0aeeb45ad677b4637ad8.js": "/precache-manifest.d12841fc9b0e0aeeb45ad677b4637ad8.js",
-    "service-worker.js": "/service-worker.js",
-    "static/js/2.67136b13.chunk.js.LICENSE.txt": "/static/js/2.67136b13.chunk.js.LICENSE.txt"
+    "main.js": "/knight-ajedrez/static/js/main.fb8f6d84.chunk.js",
+    "main.js.map": "/knight-ajedrez/static/js/main.fb8f6d84.chunk.js.map",
+    "runtime-main.js": "/knight-ajedrez/static/js/runtime-main.6f2e64d9.js",
+    "runtime-main.js.map": "/knight-ajedrez/static/js/runtime-main.6f2e64d9.js.map",
+    "static/js/2.67136b13.chunk.js": "/knight-ajedrez/static/js/2.67136b13.chunk.js",
+    "static/js/2.67136b13.chunk.js.map": "/knight-ajedrez/static/js/2.67136b13.chunk.js.map",
+    "index.html": "/knight-ajedrez/index.html",
+    "precache-manifest.77b3ac0f0e87eda4139fa195b89a46c2.js": "/knight-ajedrez/precache-manifest.77b3ac0f0e87eda4139fa195b89a46c2.js",
+    "service-worker.js": "/knight-ajedrez/service-worker.js",
+    "static/js/2.67136b13.chunk.js.LICENSE.txt": "/knight-ajedrez/static/js/2.67136b13.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b0c864d8.js",
+    "static/js/runtime-main.6f2e64d9.js",
     "static/js/2.67136b13.chunk.js",
     "static/js/main.fb8f6d84.chunk.js"
   ]
